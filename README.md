@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GuruSaiNath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ad3cm8mruc6e1jifrl9mmd9484yc9tz89dgbk8ju&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusainath27&label=Profile%20views&color=0e75b6&style=flat" alt="gurusainath27" /> </p>
 
